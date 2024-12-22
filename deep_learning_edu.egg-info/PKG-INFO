@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: deep_learning_edu
+Version: 0.1
+Requires-Dist: PyQt6>=6.5.0
+Requires-Dist: torch>=2.0.0
+Requires-Dist: torchvision>=0.15.0
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: pandas>=2.0.0
+Requires-Dist: transformers>=4.30.0
+Requires-Dist: sqlalchemy>=2.0.0
+Requires-Dist: pillow>=10.0.0
